@@ -3,7 +3,7 @@
 This is the training boilerplate for new UI recruits.
 You may see the final result on `http://someurl.com`
 
-## Priject Steps
+## Project Steps
 
 Each step may be found in a seperate folder and with a corresponding branch.
 Inside the folder you may find the required docs and explanations for the given step.
